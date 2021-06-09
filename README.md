@@ -45,7 +45,6 @@ $ npm start
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-a construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
